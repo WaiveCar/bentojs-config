@@ -1,0 +1,57 @@
+{
+  "name": "bentojs-config",
+  "version": "1.0.0",
+  "description": "A small script for loading environment based configurations.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bentojs/config.git"
+  },
+  "keywords": [
+    "config"
+  ],
+  "author": {
+    "name": "Christoffer Rødvik",
+    "email": "snapgravy@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Matt Ginty",
+      "email": "matt.ginty@gmail.com"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "kodemon",
+      "email": "snapgravy@gmail.com"
+    },
+    {
+      "name": "mattgi",
+      "email": "matt.ginty@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bentojs/config/issues"
+  },
+  "homepage": "https://github.com/bentojs/config",
+  "dependencies": {
+    "extend": "3.0.0"
+  },
+  "gitHead": "995192b4fede1f9a1018adb920f5f6baea911082",
+  "_id": "bentojs-config@1.0.0",
+  "scripts": {},
+  "_shasum": "a9bf0ac2cf06328ecff5b58d88219cd2813826f9",
+  "_from": "bentojs-config@1.0.0",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "name": "kodemon",
+    "email": "snapgravy@gmail.com"
+  },
+  "dist": {
+    "shasum": "a9bf0ac2cf06328ecff5b58d88219cd2813826f9",
+    "tarball": "https://registry.npmjs.org/bentojs-config/-/bentojs-config-1.0.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/bentojs-config/-/bentojs-config-1.0.0.tgz"
+}
